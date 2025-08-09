@@ -1,7 +1,7 @@
 #include "FIR.h"
 
 #ifndef FIR_IMPL
-#define FIR_IMPL 1   // choose 1..6
+#define FIR_IMPL 5   // choose 1..6
 #endif
 
 // ================= fir(): selectable implementations =================
